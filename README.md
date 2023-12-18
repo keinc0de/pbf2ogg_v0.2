@@ -4,7 +4,7 @@ crea un archivo de texto en formato OGG a partir de un archivo pbf del cual obti
 
 ![](data_md/cap_pbf2ogg_v0.2.jpg)
 
-> [!INFO]
+> [!NOTE]
 > El formato ogg para chapters o capitulos consiste en que cada capitulo o chapter de un video
 
 cada chapter esta representando de la siguiente manera en dos lineas:
